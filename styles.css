@@ -1,0 +1,47 @@
+body{
+	background-color: coral;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	 
+}
+h2 {
+	
+	font-style: italic;
+	color: red;
+	font-size: 30px
+
+
+}  
+div {
+	color: white;
+}
+.input1 {
+	width: 250px;
+	height: 25px;
+	border-radius: 20px
+}
+.input2 {
+	width: 250px;
+	height: 25px;
+	border-radius: 20px
+}
+.input3 {
+	width: 250px;
+	height: 25px;
+	border-radius: 20px
+}
+.input4 {
+	width: 250px;
+	height: 25px;
+	border-radius: 20px
+}
+.input5 {
+	width: 250px;
+	height: 25px;
+	border-radius: 20px
+}
+.go1 {font-family: 'Dancing Script', cursive;
+
+
+}

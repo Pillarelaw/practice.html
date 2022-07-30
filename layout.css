@@ -1,0 +1,33 @@
+.main-container {
+	margin: 50px;
+
+}
+.nav-bar {
+	background-color: blue;
+	height: 25px;
+	width: 100%;
+	display: flex;
+}
+.first-container {
+	background-color: orange;
+	height: 150px;
+	margin-top: 20px;
+
+
+}
+.articles {
+	margin-top: 30px;
+	display: flex;
+	justify-content: space-between;
+	margin: 20px 0;
+}
+.articles div {
+	background-color: orange;
+	height: 200px;
+	width: 250px;
+}
+.footer{
+	background-color: orange;
+	height: 50px;
+	width: 100%;
+}
